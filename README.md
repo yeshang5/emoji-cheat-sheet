@@ -1,3 +1,8 @@
+#	People
+|  syntax | preview | syntax | preview |  syntax | preview | syntax	| preview |  syntax	 | preview |
+| ------  | ------  | ------ | ------  |  ------ |  ------ | ------ | ------  |  ------  |  ------ |
+| ```:bowtie:```| :bowtie:| :smile:| :smile:| :simple_smile:| :simple_smile:|:laughing:| :laughing:| 
+
 # People
 :bowtie: <a>:bowtie:</a>
 :smile: :smile:
