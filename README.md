@@ -1,36 +1,32 @@
 #	People
-|  syntax | preview | syntax | preview |  syntax | preview | syntax	| preview |  syntax	 | preview |
-| ------  | ------  | ------ | ------  |  ------ |  ------ | ------ | ------  |  ------  |  ------ |
-| ```:bowtie:```| :bowtie:| :smile:| :smile:| :simple_smile:| :simple_smile:|:laughing:| :laughing:| 
+|  语法 | 预览 | 语法 | 预览 |  语法 | 预览 | 语法	| 预览 |  语法 | 预览 |
+| :------: | :------: | :------: | :------:  |  :------:| :------:| :------:| :------:  |  :------: |  :------: |
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:heart_eyes:```| :heart_eyes:| ```:kissing_heart:```| :kissing_heart:| ```:kissing_closed_eyes:```| :kissing_closed_eyes:|```:flushed:```| :flushed:|  ```:relieved:``` | :relieved:|
+| ```:satisfied:```| :satisfied:| ```:grin:```| :grin:| ```:wink:```| :wink:|```:stuck_out_tongue_winking_eye:```| :stuck_out_tongue_winking_eye:|  ```:stuck_out_tongue_closed_eyes:``` | :stuck_out_tongue_closed_eyes:|
+| ```:grinning:```| :grinning:| ```:kissing:```| :kissing:| ```:kissing_smiling_eyes```| :kissing_smiling_eyes|```:stuck_out_tongue:```| :stuck_out_tongue:|  ```:sleeping:``` | :sleeping:|
+| ```:worried:```| :worried:| ```:frowning:```| :frowning:| ```:anguished:```| :anguished:|```:open_mouth:```| :open_mouth:|  ```:grimacing:``` | :grimacing:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
 
-# People
-:bowtie: <a>:bowtie:</a>
-:smile: :smile:
-:simple_smile: :simple_smile:
-:laughing: :laughing:
-:blush: :blush:
-:smiley: :smiley:
-:relaxed: :relaxed:
-:smirk: :smirk:
-:heart_eyes: :heart_eyes:
-:kissing_heart: :kissing_heart:
-:kissing_closed_eyes: :kissing_closed_eyes:
-:flushed: :flushed:
-:relieved: :relieved:
-:satisfied:
-:grin:
-:wink:
-:stuck_out_tongue_winking_eye:
-:stuck_out_tongue_closed_eyes:
-:grinning:
-:kissing:
-:kissing_smiling_eyes:
-:stuck_out_tongue:
-:sleeping:
-:worried:
-:frowning:
-:anguished:
-:open_mouth:
+
 :grimacing:
 :confused:
 :hushed:
@@ -198,7 +194,7 @@
 :rage4:
 :suspect:
 :trollface:
-## Nature
+Nature
 :sunny:
 :umbrella:
 :cloud:
@@ -314,7 +310,7 @@
 :partly_sunny:
 :octocat:
 :squirrel:
-# Objects
+Objects
 :bamboo:
 :gift_heart:
 :dolls:
@@ -682,7 +678,7 @@ Places
 :gb:
 :uk:
 :de:
-# Symbols
+Symbols
 :one:
 :two:
 :three:
@@ -885,5 +881,3 @@ Places
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-# Campfire also supports a few sounds
-► /play secret► /play trombone► /play crickets► /play rimshot► /play vuvuzela► /play tmyk► /play live► /play drama► /play yeah► /play greatjob► /play pushit► /play nyan► /play tada► /play ohmy► /play bueller► /play ohyeah► /play 56k► /play dangerzone► /play horn► /play horror► /play loggins► /play yodel► /play sax► /play noooo► /play heygirl► /play inconceivable► /play deeper► /play whoomp► /play clowntown► /play what► /play bezos► /play trololo► /play makeitso► /play sexyback► /play bell► /play danielsan► /play greyjoy► /play story► /play dadgummit► /play rollout► /play cottoneyejoe► /play rumble► /play guarantee► /play unix► /play letitgo► /play wups► /play flawless► /play butts
