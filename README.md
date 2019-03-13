@@ -1,17 +1,17 @@
-## People
-:bowtie:
-:smile:
-:simple_smile:
-:laughing:
-:blush:
-:smiley:
-:relaxed:
-:smirk:
-:heart_eyes:
-:kissing_heart:
-:kissing_closed_eyes:
-:flushed:
-:relieved:
+# People
+:bowtie: <a>:bowtie:</a>
+:smile: :smile:
+:simple_smile: :simple_smile:
+:laughing: :laughing:
+:blush: :blush:
+:smiley: :smiley:
+:relaxed: :relaxed:
+:smirk: :smirk:
+:heart_eyes: :heart_eyes:
+:kissing_heart: :kissing_heart:
+:kissing_closed_eyes: :kissing_closed_eyes:
+:flushed: :flushed:
+:relieved: :relieved:
 :satisfied:
 :grin:
 :wink:
