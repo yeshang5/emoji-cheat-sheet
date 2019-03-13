@@ -1,38 +1,30 @@
 #	People
-|  语法 | 预览 | 语法 | 预览 |  语法 | 预览 | 语法	| 预览 |  语法 | 预览 |
-| :------: | :------: | :------: | :------:  |  :------:| :------:| :------:| :------:  |  :------: |  :------: |
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:heart_eyes:```| :heart_eyes:| ```:kissing_heart:```| :kissing_heart:| ```:kissing_closed_eyes:```| :kissing_closed_eyes:|```:flushed:```| :flushed:|  ```:relieved:``` | :relieved:|
-| ```:satisfied:```| :satisfied:| ```:grin:```| :grin:| ```:wink:```| :wink:|```:stuck_out_tongue_winking_eye:```| :stuck_out_tongue_winking_eye:|  ```:stuck_out_tongue_closed_eyes:``` | :stuck_out_tongue_closed_eyes:|
-| ```:grinning:```| :grinning:| ```:kissing:```| :kissing:| ```:kissing_smiling_eyes```| :kissing_smiling_eyes|```:stuck_out_tongue:```| :stuck_out_tongue:|  ```:sleeping:``` | :sleeping:|
-| ```:worried:```| :worried:| ```:frowning:```| :frowning:| ```:anguished:```| :anguished:|```:open_mouth:```| :open_mouth:|  ```:grimacing:``` | :grimacing:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
-| ```:bowtie:```| :bowtie:| ```:smile:```| :smile:| ```:smiley:```| :smiley:|```:relaxed:```| :relaxed:|  ```:smirk:``` | :smirk:|
+|  预览 | 语法 | 预览 | 语法 |  预览 | 语法 |
+| :------: | :------: | :------: | :------:  |  :------:| :------:|
+| :bowtie: | ```:bowtie:``` | :smile:| ```:smile:``` | :smiley:|```:smiley:```| 
+| :relaxed:|```:relaxed:``` | :smirk:| ```:smirk:``` | :heart_eyes:|```:heart_eyes:```|
+| :kissing_heart:|```:kissing_heart:```| :kissing_closed_eyes:| ```:kissing_closed_eyes:```| :flushed:|```:flushed:```|
+| :relieved:|```:relieved:``` | :satisfied:|```:satisfied:```| :grin:| ```:grin:```|
+| :wink:|```:wink:```| :stuck_out_tongue_winking_eye:| ```:stuck_out_tongue_winking_eye:```|  :stuck_out_tongue_closed_eyes:| ```:stuck_out_tongue_closed_eyes:``` |
+| :grinning:|  ```:grinning:```| :kissing:|```:kissing:```| :kissing_smiling_eyes| ```:kissing_smiling_eyes```|
+| :stuck_out_tongue:| ```:stuck_out_tongue:```| :sleeping:| ```:sleeping:``` |  :worried:| ```:worried:```| ```:frowning:```|
+| :anguished:| ```:anguished:```| :open_mouth:| ```:open_mouth:```| :grimacing:| ```:grimacing:``` |
+
+| :confused: |```:confused:```| :hushed:| ```:hushed:```| :expressionless:| ```:expressionless:```| :unamused:|```:unamused:```| :sweat_smile:| ```:sweat_smile:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
+| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```| :relaxed:|```:relaxed:```|  :smirk:| ```:smirk:``` |
 
 
-:grimacing:
-:confused:
-:hushed:
-:expressionless:
-:unamused:
-:sweat_smile:
+
 :sweat:
 :disappointed_relieved:
 :weary:
