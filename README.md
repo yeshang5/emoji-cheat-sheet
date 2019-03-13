@@ -27,42 +27,21 @@
 | :cupid: |```:cupid:```|:sparkling_heart:| ```:sparkling_heart:```| :sparkles:| ```:sparkles:```|
 | :star:|```:star:```|  :star2:| ```:star2:``` | :dizzy: |```:dizzy:```| :boom:| ```:boom:```|
 | :collision:| ```:collision:```| :anger:|```:anger:```| :exclamation:| ```:exclamation:``` |
-
 | :question: |```:question:```| :grey_exclamation:| ```:grey_exclamation:```| :grey_question:| ```:grey_question:```|
 | :zzz: |```:zzz:```| :dash:| ```:dash:```| :sweat_drops:| ```:sweat_drops:```|
 | :notes: |```:notes:```| :musical_note:| ```:musical_note:```| :fire:| ```:fire:```|
 | :hankey: |```:hankey:```| :poop:| ```:poop:```| :shit:| ```:shit:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
-| :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
+| :+1: |```:+1:```| :thumbsup:| ```:thumbsup:```| :-1:| ```:-1:```|
+| :thumbsdown: |```:thumbsdown:```| :ok_hand:| ```:ok_hand:```| :punch:| ```:punch:```|
+| :facepunch: |```:facepunch:```| :fist:| ```:fist:```| :v:| ```:v:```|
+| :wave: |```:wave:```| :hand:| ```:hand:```| :raised_hand:| ```:raised_hand:```|
+| :open_hands: |```:open_hands:```| :point_up:| ```:point_up:```| :point_down:| ```:point_down:```|
+| :point_left: |```:point_left:```| :point_right:| ```:point_right:```| :raised_hands:| ```:raised_hands:```|
+| :pray: |```:pray:```| :point_up_2:| ```:point_up_2:```| :clap:| ```:clap:```|
 | :bowtie: |```:bowtie:```| :smile:| ```:smile:```| :smiley:| ```:smiley:```|
 
 
-:+1:
-:thumbsup:
-:-1:
-:thumbsdown:
-:ok_hand:
-:punch:
-:facepunch:
-:fist:
-:v:
-:wave:
-:hand:
-:raised_hand:
-:open_hands:
-:point_up:
-:point_down:
-:point_left:
-:point_right:
-:raised_hands:
-:pray:
-:point_up_2:
-:clap:
+
 :muscle:
 :metal:
 :fu:
